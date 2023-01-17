@@ -1,2 +1,13 @@
 # 2022.Project.AIcamera.Share
-(3차년도) 연구재단 미래국방혁신기술개발사업, SW기술문서
+
+## Pseudo-Lidar documantation
+- 위치 노출 없이 사용가능한 Pseudo-Lidar 카메라 기술 개발 [실험결과서]()
+  - 실험 방법
+  - 정성적 성능  
+## Pseudo-RGB documantation
+- 주야간 관계없이 사용가능한 Pseudo-RGB 카메라 기술 개발 [실험결과서]()
+  - 실험 방법
+  - 정성적 성능
+## Semantic-Segmantation documantation
+- 칼라카메라 정보를 활용한 시맨틱 정보 추출 모델  [실험결과서]()
+  
