@@ -1,7 +1,7 @@
 # 2022.Project.AIcamera.Share
 
 ## Pseudo-Lidar documantation
-- 위치 노출 없이 사용가능한 Pseudo-Lidar 카메라 기술 개발 [실험결과서]()
+- 위치 노출 없이 사용가능한 Pseudo-Lidar 카메라 기술 개발 [실험결과서](Pseudo-Lidar)
   - 실험 방법
   - 정성적 성능  
 ## Pseudo-RGB documantation
