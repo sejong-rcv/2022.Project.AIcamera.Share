@@ -1,4 +1,4 @@
-# UDA - Semantic Segmentation
+# Semantic-Segmentation
 
 ## Requirements
 
