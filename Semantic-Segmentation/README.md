@@ -50,3 +50,7 @@ data
    ```
     bash scripts/test.sh
    ``` 
+
+## 정량적 평가
+   
+## 정성적 평가
